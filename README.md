@@ -3,7 +3,7 @@
 <h3>Task #001 <small>(El sumas y restas le dicen)</small></h3>
 <ol>
   <li>Clone the repository "master" branch</li>
-  <li>Create a local branch from master with your team name / your name</li>
+  <li>Create a local branch from master with your name</li>
   <li>Create a .NET Core 3.1 console application named Palabra</li>
   <li>The code will receive 3 inputs:
     <ul>
